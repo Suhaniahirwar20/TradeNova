@@ -3,7 +3,7 @@ import React from "react";
 const CTA = () => {
   return (
     <section className="container py-4 my-4 text-center">
-      <h2 className="fw-bold mb-3" style={{ fontSize: "3rem" }}>
+      <h2 className="fw-bold mb-3" style={{ fontSize: "2.95rem" }}>
         Ready to Trade Smarter?
       </h2>
 
