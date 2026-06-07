@@ -1,12 +1,14 @@
 import React from 'react'
 import Hero from '../components/about/Hero';
-import Team from '../components/about/Team';
+import Mission from '../components/about/Mission';
+import CTA from '../components/common/CTA';
 
 const About = () => {
   return (
     <div>
       <Hero/>
-      <Team/>
+      <Mission/>
+      <CTA/>
     </div>
   )
 }

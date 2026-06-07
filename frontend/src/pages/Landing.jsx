@@ -4,7 +4,7 @@ import WhyChoose from '../components/landingPage/WhyChoose';
 import Features from '../components/landingPage/Features';
 import Working from '../components/landingPage/Working';
 import Testimonials from '../components/landingPage/Testimonials';
-import CTA from '../components/landingPage/CTA';
+import CTA from '../components/common/CTA';
 
 const Landing = () => {
   return (
